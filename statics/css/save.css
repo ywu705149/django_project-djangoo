@@ -1,0 +1,70 @@
+.container-head {
+    background-color: rgba(0, 5.000000176951289, 20.000000707805157, 1);
+    height: 100%;
+}
+
+#logo {
+    width: 100px;
+    height: 100px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.Saved_txt { 
+    color:rgba(101.00000157952309, 99.00000169873238, 255, 1);
+	font-family:Coda;
+	text-align:left;
+	font-size:40px;
+}
+
+.bg{
+	background-color:#1c2f4d;
+    width:100%;
+	height:250px;
+    border: 0;
+	border-top-left-radius:30px;
+	border-top-right-radius:30px;
+	border-bottom-left-radius:30px;
+	border-bottom-right-radius:30px;
+
+}
+
+.details_bg {
+    background-color: rgba(95.00000193715096, 149.00000631809235, 213.00000250339508, 0.10000000149011612);
+	width:100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+	border: 0;
+}
+
+.details {
+    color: rgba(95.00000193715096, 149.00000631809235, 213.00000250339508, 1);
+	font-family:Coda;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+
+.control
+{
+    color:#56E096;
+	font-family:Coda;
+	font-size:30px;
+	letter-spacing:0;
+}
+
+.much
+{ 
+    background-color:transparent;
+    border: 0;
+    font-family:Coda;
+    color: white;
+}
+
+.icon
+{
+    height: 35px;
+    width: 35px;
+}
