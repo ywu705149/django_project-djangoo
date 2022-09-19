@@ -23,5 +23,11 @@ def shopping_cart(request):
 
 def save(request):
     return render(request,"save.html")    
+   
+def category(request):
+    return render(request,"category.html")   
 
+
+def category1(request):
+    return render(request,"category1.html")   
 

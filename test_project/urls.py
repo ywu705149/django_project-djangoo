@@ -28,4 +28,6 @@ urlpatterns = [
     path('purchase_record/',views.purchase_record),
     path('shopping_cart/',views.shopping_cart),
     path('save/',views.save),
+    path('category/',views.category),
+    path('category1/',views.category1),
 ]
